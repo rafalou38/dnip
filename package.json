@@ -1,0 +1,11 @@
+{
+  "name": "dnip",
+  "version": "1.0.0",
+  "description": "Show the ip of a dns domain.",
+  "main": "index.js",
+  "author": "Rafael <rafael.martinezcalvo@orange.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
